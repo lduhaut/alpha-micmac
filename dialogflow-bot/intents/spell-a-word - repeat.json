@@ -1,0 +1,33 @@
+{
+  "id": "805f660e-8018-45cb-b058-5d0640fc8517",
+  "parentId": "d0c36ce8-868e-420c-8de4-b389b693651b",
+  "rootParentId": "d0c36ce8-868e-420c-8de4-b389b693651b",
+  "name": "spell-a-word - repeat",
+  "auto": true,
+  "contexts": [
+    "spell-a-word-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "spell-a-word.spell-a-word-repeat",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508882247,
+  "fallbackIntent": false,
+  "events": []
+}

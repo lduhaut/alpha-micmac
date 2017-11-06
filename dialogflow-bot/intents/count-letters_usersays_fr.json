@@ -1,0 +1,332 @@
+[
+  {
+    "id": "3400f9c1-c7e7-4c54-b4f1-e70713e3def1",
+    "data": [
+      {
+        "text": "Combien De ",
+        "userDefined": false
+      },
+      {
+        "text": "à",
+        "alias": "letter",
+        "meta": "@letter",
+        "userDefined": false
+      },
+      {
+        "text": " y-a-t-il dans ",
+        "userDefined": false
+      },
+      {
+        "text": "carambole",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508882290
+  },
+  {
+    "id": "60b8fd73-5afa-415d-bba0-eec1d96f48de",
+    "data": [
+      {
+        "text": "combien de fois y a-t-il la lettre ",
+        "userDefined": false
+      },
+      {
+        "text": "E",
+        "alias": "letter",
+        "meta": "@letter",
+        "userDefined": false
+      },
+      {
+        "text": " dans ",
+        "userDefined": false
+      },
+      {
+        "text": "forteresse",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1508882247
+  },
+  {
+    "id": "f73df67a-537f-44d1-86a3-748248c9bb24",
+    "data": [
+      {
+        "text": "combien y a-t-il de lettre dans ",
+        "userDefined": false
+      },
+      {
+        "text": "forteresse",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508882247
+  },
+  {
+    "id": "5f64944b-5cb5-47ff-8c1e-6bd61ec6c346",
+    "data": [
+      {
+        "text": "combien de lettres y a-t-il dans ",
+        "userDefined": false
+      },
+      {
+        "text": "forteresse",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508882229
+  },
+  {
+    "id": "87a1f018-b3ea-47bc-a9c5-ce78f8d002fd",
+    "data": [
+      {
+        "text": "combien y a-t-il de fois la lettre ",
+        "userDefined": false
+      },
+      {
+        "text": "A",
+        "alias": "letter",
+        "meta": "@letter",
+        "userDefined": false
+      },
+      {
+        "text": " dans ",
+        "userDefined": false
+      },
+      {
+        "text": "Connemara",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508882204
+  },
+  {
+    "id": "6d1338c5-ca42-4ef4-9993-547dec945c4f",
+    "data": [
+      {
+        "text": "combien y a-t-il de lettre dans ",
+        "userDefined": false
+      },
+      {
+        "text": "tartiflette",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508882204
+  },
+  {
+    "id": "515b3440-2279-436f-8509-0945debffd44",
+    "data": [
+      {
+        "text": "Combien y a t il de ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "letter",
+        "meta": "@letter",
+        "userDefined": true
+      },
+      {
+        "text": " dans ",
+        "userDefined": false
+      },
+      {
+        "text": "carambole",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "65493a07-b297-408e-b646-a44c33c2cb4f",
+    "data": [
+      {
+        "text": "Combien y a t\u0027il de lettre dans ",
+        "userDefined": false
+      },
+      {
+        "text": "Carambole",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508791094
+  },
+  {
+    "id": "ac94ffc4-2f11-4424-924e-41350a20a558",
+    "data": [
+      {
+        "text": "Combien y a t\u0027il de ",
+        "userDefined": false
+      },
+      {
+        "text": "C",
+        "alias": "letter",
+        "meta": "@letter",
+        "userDefined": false
+      },
+      {
+        "text": " dans ",
+        "userDefined": false
+      },
+      {
+        "text": "chaudron",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508791094
+  },
+  {
+    "id": "83af3272-b31b-4ffd-8bc3-ba1bf9493f3e",
+    "data": [
+      {
+        "text": "Combien de ",
+        "userDefined": false
+      },
+      {
+        "text": "t",
+        "alias": "letter",
+        "meta": "@letter",
+        "userDefined": true
+      },
+      {
+        "text": " y a t\u0027il dans ",
+        "userDefined": false
+      },
+      {
+        "text": "taratata",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508791094
+  },
+  {
+    "id": "dab37b12-71c1-4452-b969-87ca1043c287",
+    "data": [
+      {
+        "text": "combien de ",
+        "userDefined": false
+      },
+      {
+        "text": "s",
+        "alias": "letter",
+        "meta": "@letter",
+        "userDefined": true
+      },
+      {
+        "text": " dans ",
+        "userDefined": false
+      },
+      {
+        "text": "espece",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508791094
+  },
+  {
+    "id": "12608170-ed3d-4577-a280-c6a0c6754369",
+    "data": [
+      {
+        "text": "Combien de lettres y\u0027a-t-il dans ",
+        "userDefined": false
+      },
+      {
+        "text": "unisvers",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508790268
+  },
+  {
+    "id": "18cbbd80-9262-417f-8528-ceaf6b29c628",
+    "data": [
+      {
+        "text": "Combien de ",
+        "userDefined": false
+      },
+      {
+        "text": "P",
+        "alias": "letter",
+        "meta": "@letter",
+        "userDefined": true
+      },
+      {
+        "text": " y a-t-il dans ",
+        "userDefined": false
+      },
+      {
+        "text": "patate",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508790398
+  }
+]

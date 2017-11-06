@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ce7d1730-707f-4fc4-9346-59a83a80a7a3",
+    "data": [
+      {
+        "text": "répète",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1508882247
+  },
+  {
+    "id": "f4a311c0-a5a0-4e12-b835-f3b9d9fad997",
+    "data": [
+      {
+        "text": "répète ça",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "803174bc-7743-4d6b-817b-cd905a0b674d",
+    "data": [
+      {
+        "text": "redis-moi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "995715d0-dfa5-42c7-b74b-70714a22e486",
+    "data": [
+      {
+        "text": "redis-le moi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "007ca137-fb12-47b3-a279-72aaec003260",
+    "data": [
+      {
+        "text": "recommence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b8ab379-aebf-48e4-b3d7-26da47c8f40e",
+    "data": [
+      {
+        "text": "peux-tu répéter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a92a133-fb69-4394-8296-284a618aa32c",
+    "data": [
+      {
+        "text": "répète, s\u0027il te plaît",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2da427be-2f4b-40b0-b311-aa185608cccb",
+    "data": [
+      {
+        "text": "répète la même chose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1420814-772f-4f9d-8bc7-e506a7592fb7",
+    "data": [
+      {
+        "text": "est-ce que tu peux répéter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "e70e5338-24ec-4822-8d87-df12a673adf9",
+    "data": [
+      {
+        "text": "répète ce que tu viens de dire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

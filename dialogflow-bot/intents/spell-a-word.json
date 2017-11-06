@@ -1,0 +1,50 @@
+{
+  "id": "d0c36ce8-868e-420c-8de4-b389b693651b",
+  "name": "spell-a-word",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "spell-a-word",
+      "affectedContexts": [
+        {
+          "name": "spell-a-word-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9139c532-e3a3-4df4-a235-9c172335f093",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "word",
+          "value": "$word",
+          "prompts": [
+            {
+              "lang": "fr",
+              "value": "Quel mot souhaites-tu que j\u0027épelle ?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508882326,
+  "fallbackIntent": false,
+  "events": []
+}

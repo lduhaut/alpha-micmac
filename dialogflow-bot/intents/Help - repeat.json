@@ -1,0 +1,33 @@
+{
+  "id": "b5c3770d-b06a-4389-91f7-78c84c4096b9",
+  "parentId": "9b319c25-6a23-4070-8931-95541087eac1",
+  "rootParentId": "9b319c25-6a23-4070-8931-95541087eac1",
+  "name": "Help - repeat",
+  "auto": true,
+  "contexts": [
+    "Help-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Help.Help-repeat",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508789974006,
+  "fallbackIntent": false,
+  "events": []
+}

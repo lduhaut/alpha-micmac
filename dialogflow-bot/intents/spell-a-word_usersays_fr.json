@@ -1,0 +1,309 @@
+[
+  {
+    "id": "52766d77-cb7f-46f6-9fe9-415896fe9ce0",
+    "data": [
+      {
+        "text": "appelle ",
+        "userDefined": false
+      },
+      {
+        "text": "carambole",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508882290
+  },
+  {
+    "id": "a4e2dfa1-464a-4ca5-809f-1d03379d4e45",
+    "data": [
+      {
+        "text": "comment écris-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "carambole",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508882290
+  },
+  {
+    "id": "ebf71322-d895-4e35-b0d8-c486fb5f7461",
+    "data": [
+      {
+        "text": "comment écrit-on ",
+        "userDefined": false
+      },
+      {
+        "text": "carambole",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1508882290
+  },
+  {
+    "id": "623a51ff-3439-4778-94a0-4dba1bf4be70",
+    "data": [
+      {
+        "text": "comment écrit-on ",
+        "userDefined": false
+      },
+      {
+        "text": "forteresse",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1508882247
+  },
+  {
+    "id": "1d81dd91-b739-42ee-bd8b-53b49f51ca5d",
+    "data": [
+      {
+        "text": "comment écris-tu ",
+        "userDefined": false
+      },
+      {
+        "text": "pipi",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508882204
+  },
+  {
+    "id": "b89eb2f0-9f55-4fb6-b617-e7dbf19a5003",
+    "data": [
+      {
+        "text": "comment écrit-on ",
+        "userDefined": false
+      },
+      {
+        "text": "pipi",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508882204
+  },
+  {
+    "id": "cd9d82b9-d4d3-4351-90ec-fbb63078739c",
+    "data": [
+      {
+        "text": "comment écrit-on ",
+        "userDefined": false
+      },
+      {
+        "text": "Charlie",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508882204
+  },
+  {
+    "id": "466715cf-b331-4acf-ab75-0282f9df41d3",
+    "data": [
+      {
+        "text": "comment écrit-on ",
+        "userDefined": false
+      },
+      {
+        "text": "Julie",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508882204
+  },
+  {
+    "id": "cd4c0004-efe3-4fde-8704-e7a55150312c",
+    "data": [
+      {
+        "text": "comment écrit-on ",
+        "userDefined": false
+      },
+      {
+        "text": "Eliott",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508882204
+  },
+  {
+    "id": "e9f599bb-4de9-42f4-8fd5-99d53088d350",
+    "data": [
+      {
+        "text": "comment écrit-on ",
+        "userDefined": false
+      },
+      {
+        "text": "Erin",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508882204
+  },
+  {
+    "id": "7ff9089f-b5e7-4da7-b2e5-3aa090b99a3c",
+    "data": [
+      {
+        "text": "comment écrit-on ",
+        "userDefined": false
+      },
+      {
+        "text": "bonne nuit",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508882204
+  },
+  {
+    "id": "3f225425-1004-4c5b-bc83-c284fa0f8ef7",
+    "data": [
+      {
+        "text": "comment écrit-on ",
+        "userDefined": false
+      },
+      {
+        "text": "grand mail",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508882204
+  },
+  {
+    "id": "d27e633f-1b7e-42dc-a028-854d85da440f",
+    "data": [
+      {
+        "text": "épelle tartiflette",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508882204
+  },
+  {
+    "id": "2bbb74ae-b670-4c79-9ed0-c5c713b5ec97",
+    "data": [
+      {
+        "text": "comment écrit-on ",
+        "userDefined": false
+      },
+      {
+        "text": "tartiflette",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508882204
+  },
+  {
+    "id": "b9e72c30-1bad-47df-b4d2-9a5aaefe8a4d",
+    "data": [
+      {
+        "text": "Epelles ",
+        "userDefined": false
+      },
+      {
+        "text": "Carambole",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "564675a2-dff5-406e-8bb4-544522379b8b",
+    "data": [
+      {
+        "text": "Epelles ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508790187
+  },
+  {
+    "id": "0dae1cc9-5ba8-4276-bb36-98293fb0cb3b",
+    "data": [
+      {
+        "text": "Comment ecris-t-on ",
+        "userDefined": false
+      },
+      {
+        "text": "cauchemar",
+        "alias": "word",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508790047
+  }
+]

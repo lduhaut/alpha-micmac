@@ -1,0 +1,29 @@
+{
+  "id": "14111bca-51e6-4a0c-9cd5-d0c1a8ca8bad",
+  "name": "Quit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "quit",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": "A bientôt !"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508882290,
+  "fallbackIntent": false,
+  "events": []
+}

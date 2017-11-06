@@ -1,0 +1,110 @@
+[
+  {
+    "id": "b6e3742b-b7e6-4d1e-a290-b87936450182",
+    "data": [
+      {
+        "text": "je m\u0027en vais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508882290
+  },
+  {
+    "id": "0dcd905e-f806-45fa-a32b-85ec61f8acde",
+    "data": [
+      {
+        "text": "merci je m\u0027en vais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508882229
+  },
+  {
+    "id": "18f5e647-1f8a-4e2c-8e35-d11d0f5257f4",
+    "data": [
+      {
+        "text": "alpha micmac je vais me coucher bonne nuit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508882204
+  },
+  {
+    "id": "444b7177-e000-457c-a388-826ea11639dd",
+    "data": [
+      {
+        "text": "la question au revoir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508882204
+  },
+  {
+    "id": "3aad5626-b00c-47e6-933b-8a3b7e8e7b05",
+    "data": [
+      {
+        "text": "Je m\u0027en vais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da2593e9-e22c-4ab3-89a1-30c9923e6c0e",
+    "data": [
+      {
+        "text": "See you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39412d0c-6de2-4b7c-87f8-e7a8e2766083",
+    "data": [
+      {
+        "text": "Au revoir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27e8344c-b90d-4121-8cf2-e69c27289501",
+    "data": [
+      {
+        "text": "Stop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3578075a-596e-49cc-a4d4-3cacea3fa42b",
+    "data": [
+      {
+        "text": "Bye bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
